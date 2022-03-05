@@ -1,3 +1,9 @@
-.helloInput {
-  width: 200px;
+.banner {
+  height: 200px;
+  background-color: #264F93;
 }
+
+  .whitetitle {
+    color: white;
+    padding: 45px;
+  }
